@@ -1,0 +1,13 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: 'Alumni Sans';
+}
+
+h1,
+.caps {
+  font-family: 'Bebas Neue';
+}

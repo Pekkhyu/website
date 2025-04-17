@@ -15,4 +15,6 @@ h1,
 
 .btn {
   display: inline-block;
+  width: auto;
+  margin: auto;
 }

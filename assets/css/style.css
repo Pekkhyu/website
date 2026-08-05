@@ -7,6 +7,18 @@ body {
   font-family: 'Alumni Sans';
 }
 
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
 h1,
 .caps,
 .btn {
@@ -20,5 +32,5 @@ h1,
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }

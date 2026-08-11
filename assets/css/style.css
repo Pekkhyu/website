@@ -32,6 +32,13 @@ h1,
   margin: auto;
 }
 
+.btn-edo {
+  background-color: orange;
+}
+.btn-lucy {
+  background-color: purple;
+}
+
 p {
   font-size: 1.5rem;
 }

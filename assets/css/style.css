@@ -26,9 +26,7 @@ h3 {
 
 h1,
 .caps,
-.btn {
-  font-family: 'Bebas Neue';
-}
+.btn {}
 
 .btn {
   display: inline-block;

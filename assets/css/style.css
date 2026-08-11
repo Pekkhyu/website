@@ -63,8 +63,10 @@ h1,
 
 .btn-edo:hover {
   background-color: #ffa600;
+  border-color: #ffa600;
 }
 
 .btn-lucy:hover {
   background-color: #c300c3;
+  border-color: #c300c3;
 }

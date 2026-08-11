@@ -57,12 +57,18 @@ h3 {
   border-color: purple;
 }
 
-.btn-edo:hover {
-  background-color: #ffa600;
-  border-color: #ffa600;
+.btn-edo:hover,
+.btn-edo:focus,
+.btn-edo:focus-visible,
+.btn-edo:focus-within {
+  background-color: #d78b00;
+  border-color: #d78b00;
 }
 
-.btn-lucy:hover {
+.btn-lucy:hover,
+.btn-lucy:focus,
+.btn-lucy:focus-visible,
+.btn-lucy:focus-within {
   background-color: #c300c3;
   border-color: #c300c3;
 }

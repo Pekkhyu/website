@@ -61,7 +61,10 @@ h1,
   border-color: purple;
 }
 
-.btn-edo:hover,
+.btn-edo:hover {
+  background-color: #ffa600;
+}
+
 .btn-lucy:hover {
-  filter: brightness(0.5);
+  background-color: #c300c3;
 }

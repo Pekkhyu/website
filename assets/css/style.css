@@ -36,9 +36,12 @@ h1,
 
 .btn-edo {
   background-color: orange;
+  border-color: orange;
 }
+
 .btn-lucy {
   background-color: purple;
+  border-color: purple;
 }
 
 p {

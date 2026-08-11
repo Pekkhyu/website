@@ -6,6 +6,8 @@ img {
 body {
   /* font-family: 'Alumni Sans'; */
   font-family: 'Inter';
+  background-image: url('../assets/background.jpg');
+  background-repeat: repeat;
 }
 
 h1 {

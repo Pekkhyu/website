@@ -6,18 +6,10 @@ img {
 body {
   /* font-family: 'Alumni Sans'; */
   font-family: 'Inter';
-  position: relative;
-}
-
-body::before {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  z-index: -1;
   background-image: url('../img/background.jpg');
   background-repeat: repeat;
   background-size: 20%;
-  opacity: 0.5;
+  filter: brightness(0.5);
 }
 
 h1 {

@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0
+}
+
+a {
+  color: #1F2A44
+}
+
+a:hover {
+  color: #B45F00
+}

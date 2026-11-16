@@ -6,10 +6,57 @@ body {
   margin: 0
 }
 
+header {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 24px 24px 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+header>.inner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+span.family {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.decorationNone {
+  text-decoration: none;
+}
+
 a {
   color: #1F2A44
 }
 
 a:hover {
   color: #B45F00
+}
+
+.heroSection {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 56px 24px 72px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 56px;
 }
